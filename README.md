@@ -1,3 +1,3 @@
 # product_dashboard
 
-A new Flutter project.
+this is dashboard to upload product in app
